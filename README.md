@@ -2,6 +2,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=fulldataalchemist&show_icons=true&hide_title=true&theme=dark" />
 
 <h1>🤫 About Me</h1>
+
 - 🎓 I'm MSc. Artificial Intelligence.
 - 🌱 I’m currently learning how to treat huge data and models.
 - 💡 I like to explore new ideas and technologies.
@@ -14,7 +15,7 @@
 
 <h1>🔬 My Stack</h1>
 
-I make neural models **🌍 NLP services, 💻 computer vision, and 📱 any new ideas fun for me** for a living and also **having fun** 🤹
+I make neural models **🌍 NLP services, 💻 computer vision, and 📱 any new ideas fun for me** for a living and also **having fun** 🤹<br>
 
 **Languages and Tools:**  
 <code><img height="28" src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/python.svg"></code>&nbsp;
